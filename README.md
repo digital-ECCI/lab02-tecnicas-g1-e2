@@ -60,6 +60,11 @@ Si Sel = 1:
 #### 1.2 Diagramas
 
 
+
+
+
+El diseño utiliza una arquitectura modular basada en sumadores de 1 bit, conectados en cascada para propagar el acarreo. Las compuertas XOR permiten implementar la operación de resta mediante complemento a 2.
+
 ## Simulaciones 
 
 ### 1. Simulación del sumador/restador
@@ -78,6 +83,11 @@ Casos evaluados:
 #### 1.2 Diagrama
 
 
+
+
+
+En la simulación se observa que el sistema responde correctamente a la señal de control Sel, realizando suma cuando Sel = 0 y resta cuando Sel = 1. Los resultados coinciden con los valores esperados teóricamente.
+
 ## Evidencias de implementación
 
 🔹 Video de implementación
@@ -86,7 +96,8 @@ Casos evaluados:
 
 🔹 Foto Implementacion
 
-![implementacion](documentacion/WhatsApp Image 2026-03-31 at 4.37.07 PM.jpeg) 
+![implementacion](lab02-tecnicas-g1-e2
+/WhatsApp Image 2026-03-31 at 4.37.07 PM.jpeg) 
 
 
 🔹 Descripción
