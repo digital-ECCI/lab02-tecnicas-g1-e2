@@ -80,16 +80,13 @@ Casos evaluados:
 
 ## Evidencias de implementación
 
+🔹 Video de implementación
 
+[![Ver video](https://img.youtube.com/vi/ID_DEL_VIDEO/0.jpg)](https://youtube.com/shorts/mWCf8l0Qcd4?feature=share)
 
+🔹 Foto Implementacion
 
-
-
-
-
-
-
-
+![implementacion](documentacion/WhatsApp Image 2026-03-31 at 4.37.07 PM.jpeg) 
 
 
 🔹 Descripción
@@ -104,6 +101,12 @@ El circuito funcionó correctamente tanto para suma como para resta.
 
 
 ## Conclusiones
-
+* Se implementó correctamente un sumador/restador de 4 bits en FPGA.
+* Se comprendió el uso del complemento a 2 para realizar restas en hardware.
+* Se validó el diseño mediante simulación y pruebas físicas.
+* Se reforzaron conceptos de diseño modular y propagación de acarreo.
 
 ## Referencias
+* Guía del laboratorio – Técnicas Digitales
+* Documentación de Intel FPGA
+* Material de clase
