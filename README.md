@@ -59,7 +59,7 @@ Si Sel = 1:
 
 #### 1.2 Diagramas
 
-
+![DIAGRAMA](documentacion/diagrama.jpeg)
 
 
 
@@ -96,7 +96,7 @@ En la simulación se observa que el sistema responde correctamente a la señal d
 
 🔹 Foto Implementacion
 
-<img src="documentacion/implementacion .jpeg" width="300">
+![FPGA](documentacion/implementacion.jpeg)
 
 🔹 Descripción
 
