@@ -59,8 +59,7 @@ Si Sel = 1:
 
 #### 1.2 Diagramas
 
-![DIAGRAMA](documentacion/diagrama.jpeg)
-
+<img src="documentacion/diagrama.jpeg" width="300">
 
 
 El diseño utiliza una arquitectura modular basada en sumadores de 1 bit, conectados en cascada para propagar el acarreo. Las compuertas XOR permiten implementar la operación de resta mediante complemento a 2.
@@ -96,15 +95,16 @@ En la simulación se observa que el sistema responde correctamente a la señal d
 
 🔹 Foto Implementacion
 
-![FPGA](documentacion/implementacion.jpeg)
+<img src="documentacion/implementacion.jpeg" width="300">
 
-🔹 Descripción
+🔹 Descripción Foto 
+ (La foto muestra el resultado binario de la suma 4+2)
 
 El sistema fue implementado en la FPGA DE10-Lite utilizando:
 
 * Switches para ingresar los operandos A y B
 * Un switch adicional para seleccionar la operación
-* Displays de 7 segmentos para visualizar la salida
+* Leds para visualizar la salida
 
 El circuito funcionó correctamente tanto para suma como para resta.
 
