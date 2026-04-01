@@ -96,8 +96,7 @@ En la simulación se observa que el sistema responde correctamente a la señal d
 
 🔹 Foto Implementacion
 
-![implementacion](lab02-tecnicas-g1-e2
-/WhatsApp Image 2026-03-31 at 4.37.07 PM.jpeg) 
+![FPGA](documentacion/implementacion.jpeg)
 
 
 🔹 Descripción
