@@ -96,8 +96,7 @@ En la simulación se observa que el sistema responde correctamente a la señal d
 
 🔹 Foto Implementacion
 
-![FPGA](documentacion/implementacion.jpeg)
-
+<img src="documentacion/implementacion .jpeg" width="300">
 
 🔹 Descripción
 
