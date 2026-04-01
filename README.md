@@ -59,7 +59,7 @@ Si Sel = 1:
 
 #### 1.2 Diagramas
 
-<img src="documentacion/diagrama.jpeg" width="500">
+<img src="documentacion/diagrama.jpeg" width="600">
 
 
 El diseño utiliza una arquitectura modular basada en sumadores de 1 bit, conectados en cascada para propagar el acarreo. Las compuertas XOR permiten implementar la operación de resta mediante complemento a 2.
