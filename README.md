@@ -85,7 +85,7 @@ Casos evaluados:
 #### 1.2 Diagrama
 
 
-<img src="documentacion/gtkwave.png" width="600">
+<img src="documentacion/gtkwave.png" width="700">
 
 
 En la simulación se observa que el sistema responde correctamente a la señal de control Sel, realizando suma cuando Sel = 0 y resta cuando Sel = 1. Los resultados coinciden con los valores esperados teóricamente.
