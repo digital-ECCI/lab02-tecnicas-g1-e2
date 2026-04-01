@@ -4,6 +4,9 @@
 * [Diego Alexander Baron Pacheco](https://github.com/DiegoBp777) 
 * [Jareth Santiago Escamilla Marquez](https://github.com/jarethescamilla)
 * [Fredy Vicente Patiño Garzon](https://github.com/fredyvipatinoga-crypto)
+
+Grupo 2 (de los makias)
+
 # Informe
 
 Indice:
@@ -82,7 +85,7 @@ Casos evaluados:
 #### 1.2 Diagrama
 
 
-
+<img src="documentacion/gtkwave.png" width="600">
 
 
 En la simulación se observa que el sistema responde correctamente a la señal de control Sel, realizando suma cuando Sel = 0 y resta cuando Sel = 1. Los resultados coinciden con los valores esperados teóricamente.
